@@ -1,4 +1,4 @@
-# Peace be upon . I am Mahmudur Rahman . Welcome to my Profile!!! 
+# Peace! Those who are founded on guidance. I am Mahmudur Rahman. Welcome to my Profile!!! 
 <h3 align="center">I am a passionate frontend developer from Bangladesh</h3>
 <h3 align="center">Currently learning : React  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></h3>
 <h3 align="center">Ask me about: HTML, CSS, Javascript</h3>
