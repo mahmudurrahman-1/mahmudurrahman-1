@@ -1,6 +1,11 @@
+## 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mahmudurrahman-1.repoName)
 # Peace! Those who are founded on guidance. I am Mahmudur Rahman. Welcome to my Profile!!! 
 <h3 align="center">I am a passionate frontend developer from Bangladesh</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudurrahman-1)![Rafsan's github stats](https://github-readme-stats.vercel.app/api?username=mahmudurrahman-1&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmudurrahman-1&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3)
+
 <h3 align="center">Currently learning : React  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></h3>
 <h3 align="center">Ask me about: HTML, CSS, Javascript</h3>
 
