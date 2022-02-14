@@ -1,7 +1,7 @@
 ## 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mahmudurrahman-1.repoName)
 # Peace! Those who are founded on guidance. I am Mahmudur Rahman. Welcome to my Profile!!! 
-<h3 align="center">I am a passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I am a passionate Frontend Developer from Bangladesh</h3>
 
 ![Rafsan's github stats](https://github-readme-stats.vercel.app/api?username=mahmudurrahman-1&count_private=true)
 ![Armancodv's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudurrahman-1&layout=compact&theme=dark)
