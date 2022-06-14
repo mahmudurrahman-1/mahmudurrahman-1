@@ -5,9 +5,15 @@
 
 ![Rafsan's github stats](https://github-readme-stats.vercel.app/api?username=mahmudurrahman-1&count_private=true)
 ![Armancodv's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudurrahman-1&layout=compact&theme=dark)
-
-<h2 align="center">Technology Stack</h2>
-<h3 align="center">HTML, CSS, Javascript, Sass, React</h3>
-<h3 align="center">Java, PHP, Asp.net, C#, ASP.Net(Model View Controller) </h3>
-<h3 align="center">Structured Query Language- MYSQL, MS SQL Server </h3>
-
+<li>
+Manual Testing--> Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting using test management tools</li>
+<li>API Testing Tool---> Postman</li>
+<li>Performance Testing Tool-->JMeter</li>
+<li>Web Automation Tools-->Selenium, TestNG</li>
+<li>MobileApp Automation Tools--> Appium</li>
+<li>Agile Methodology and Project Management Tool-->Jira</li>
+<li>Security Testing Tool-->Nmap</li>
+<li>Web Development Technologies</li>
+<li>Prgramming Language--> Java, C#,PHP, JavaScript</li>
+<li>Database--> MySQL, MS Sql Server
+</li>
