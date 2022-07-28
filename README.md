@@ -2,7 +2,7 @@
 # Peace! Those who are founded on guidance. 
 <h2 align="start">I am Mahmudur Rahman. You're welcome!!!</h2>
 
-<h4 align="start">I am a passionate Software Quality Assurance Engineer from Bangladesh. In the last 01 year I have been practicing as a Software Developer (Test) Engineering. TestRail for writing Test Cases, Jira for project management, TestProject for mobile Automation, Selenium for web automation, Postman for Api Testing. For Web Security Testing tool.
+<h4 align="start">I am a passionate Software Quality Assurance Engineer from Bangladesh. In the last 01 year I have been practicing as a Software Developer (Test) Engineer. I use testrail for writing test cases, Jira or Trello tool for project management purpose, java, selenium, maven, testng, page object model, data-driven, page factory, generate allure report for web automation, Postman for API testing and apache jmeter for performance testing. 
 
 </h4>
 
