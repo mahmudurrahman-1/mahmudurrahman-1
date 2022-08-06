@@ -6,8 +6,16 @@
 
 </h4>
 
-![Rafsan's github stats](https://github-readme-stats.vercel.app/api?username=mahmudurrahman-1&count_private=true)
-![Armancodv's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudurrahman-1&layout=compact&theme=dark)
+[Profile Summary](https://profile-summary-for-github.com/user/mahmudurrahman-1)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahmudurrahman-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahmudurrahman-1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudurrahman-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 <li>
 Manual Testing--> Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting using test management tools</li>
 <li>API Testing Tool---> Postman</li>
